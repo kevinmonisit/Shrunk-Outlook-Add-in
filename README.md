@@ -1,2 +1,2 @@
 # Shrunk-Outlook-Add-in
-Shrunk Helper plugin for Outlook that makes injecting tracking pixels easier 
+Shrunk Outlook plugin for injecting tracking pixels into emails
